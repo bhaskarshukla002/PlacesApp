@@ -1,7 +1,8 @@
 # PlacesApp
-PlacesApp is an Android application that allows users to save and manage their favorite places. It provides features such as adding places with images, storing them locally using SQLite, displaying them in a RecyclerView, utilizing third-party libraries for image handling and permissions, integrating with Google Places API for location-related functionality, and more.
+PlacesApp is an Android application that allows users to save and manage their favorite places. 
+It provides features such as adding places with images, storing them locally using SQLite, displaying them in a RecyclerView, utilizing third-party libraries for image handling and permissions, integrating with Google Places API for location-related functionality, and more.
 
-Features
+# Features:
 Calendar picker for selecting dates and populating the date field.
 Integration of third-party libraries for various functionalities.
 Usage of the DEXTER library for handling permissions.
@@ -26,7 +27,8 @@ Obtaining the address from latitude and longitude.
 Installation
 To install the PlacesApp, follow these steps:
 
-Clone the repository: git clone https://github.com/bhaskarshukla002/PlacesApp.git.
+# Clone the repository: 
+git clone https://github.com/bhaskarshukla002/PlacesApp.git.
 Open the project in Android Studio.
 Build and run the app on an Android device or emulator.
 Usage
@@ -40,13 +42,13 @@ Delete places by swiping the item to the left or right and confirming the deleti
 Utilize the Google Places API integration to search for places and display them on the map.
 Use the "Select Current Location" button to get the user's current location and display it on the map.
 Explore the various functionalities demonstrated in the videos to understand their implementation.
-Dependencies
+# Dependencies
 The PlacesApp may have dependencies based on the features described, but the specific dependencies are not mentioned in the provided information.
 
-Contributing
+# Contributing
 Contributions to the PlacesApp are currently not being accepted. However, you are welcome to fork the repository and make any modifications or enhancements for your personal use.
 
-License
+# License
 This project is licensed under the MIT License.
 
 Contact
